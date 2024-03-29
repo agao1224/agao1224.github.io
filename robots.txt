@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://agao1224.github.io/sitemap.xml
