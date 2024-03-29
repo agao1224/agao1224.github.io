@@ -1,0 +1,85 @@
+{
+  "basics": {
+    "name": "Andrew Gao",
+    "label": "",
+    "image": "",
+    "email": "agao2@andrew.cmu.edu",
+    "phone": "(510) 590-1593",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "",
+    "location": {
+      "address": "5212 Beeler Street",
+      "postalCode": "PA 15217",
+      "city": "Pittsburgh",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "name": "Diderot",
+      "position": "Software Developer",
+      "url": "https://diderot.one",
+      "startDate": "2022-12-01",
+      "endDate": "Present",
+      "summary": "Course management system used by Carnegie Mellon and other universities. Features a custom LaTeX-based UI, assignment submissions, code autograding, comment/posts system.",
+      "highlights": [
+        "Built and tested AI microservice built on OpenAI's GPT-4.0. Deployed using FastAPI, Docker, AWS ECR.",
+        "Wrote script to anonymize sensitive user information using regular expressions. Implemented basic autocorrect usin Levenshtein distance.",
+        "Built pipelines for extracting, cleaning, and formatting data from PostgreSQL database to be used for fine-tuning OpenAI's GPT-3.0 model."
+      ]
+    },
+    {
+      "name": "Carnegie Mellon School of Computer Science",
+      "position": "Research Assistant",
+      "url": "https://www.cs.cmu.edu/",
+      "startDate": "2023-05-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Working on job scheduler that amortizes carbon cost of manufacturing server-grade CPUs by extending their hardware lifecycle in datacenters.",
+        "Using DeathStarBench's service suite to compare tail latency of microservices across different hardware.",
+        "Wrote scripts using Python, Docker CLI to automate setup and scaling of microservices on CPU nodes."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "url": "https://www.cmu.edu",
+      "area": "Electrical & Computer Engineering, Minor in Computer Science",
+      "studyType": "Bachelor's of Science",
+      "startDate": "2021-08-01",
+      "endDate": "2025-05-01",
+      "score": "",
+      "courses": [
+        "15-210: Parallel & Sequential Data Structures and Algorithms",
+        "15-213: Introduction to Computer Systems",
+        "15-251: Great Ideas in Theoretical Computer Science",
+        "18-240: Structure and Design of Digital Systems",
+        "15-259: Probability and Computing"
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
