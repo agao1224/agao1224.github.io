@@ -16,4 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a junior studying Electrical & Computer Engineering and Computer Science at Carnegie Mellon. I'm currently working on [Diderot](https://diderot.one/).
+Hi! I'm a senior studying Electrical & Computer Engineering (ECE) and Computer Science at Carnegie Mellon. I obtained my Bachelor's in ECE, minor in CS in Spring 2024 and am currently working towards my Masters in ECE. I'm currently working on [Hilo](https://www.hilogaming.me)!
+
+[My Resume](https://drive.google.com/file/d/1Kb1Qcj94p-7KLzvuVGg9IBw1xtPiXNeA/view?usp=sharing)

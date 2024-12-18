@@ -7,4 +7,4 @@ importance: 3
 category: fun
 ---
 
-I was very interested in Physics back in high school, and I did some work which got accepted at SPIE Photonics West. [One paper](https://doi.org/10.1117/12.2546519) was published my junior year, and [the other](https://doi.org/10.1117/12.2578643) my senior year. I didn't think this deserved an entirely different section on my website, so I thought I'd just put it under `Projects`.
+I was very interested in Physics back in high school, and I did some work which got accepted at SPIE Photonics West. [One paper](https://doi.org/10.1117/12.2546519) was published my junior year, and [the other](https://doi.org/10.1117/12.2578643) my senior year.
